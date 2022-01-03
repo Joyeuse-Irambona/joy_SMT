@@ -1,6 +1,7 @@
 import React from "react";
 import HomePage from "./components/home";
 import Login from "./components/login";
+import './App.css';
 import GroupLogin from "./components/glogin";
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import HodDashboard from "./components/home/common/hod_dashboard";
